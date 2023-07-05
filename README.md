@@ -24,3 +24,6 @@ ID, Username, and password should match the database content.
 * After submitting the form the teacher should refresh the grades table that he will find down below by clicking the refresh button to see the updated grades table.
 * The teacher can delete the data by clicking on the delete button on the table.
 * The table will just display just students for whom the specific teacher inserted their grades.
+
+### Download The rar document to access all project resources. 
+### Thank you.
